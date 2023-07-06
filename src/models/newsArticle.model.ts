@@ -5,7 +5,7 @@ export interface ArticleProps {
     url: string;
     urlToImage: string;
     onClick?: () => void;
-    onClose: () => void;
+    onClose?: () => void;
   }
 
   export interface PaginationProps {

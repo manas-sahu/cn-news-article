@@ -6,6 +6,7 @@ import SearchBar from "./components/searchBar";
 import NavBar from "./components/navBar";
 import "./App.css";
 import { ArticleProps } from "./models/newsArticle.model";
+import { default as mock } from "./mockData.json";
 
 const App = () => {
   // State variables to store the news articles, the current page and the total pages
@@ -35,7 +36,12 @@ const App = () => {
       const data = await response.json();
       if (data.status === "error") {
         console.log(data.message);
-        setErrorMessage(data.message);
+        console.log(mock);
+
+        setArticles(
+          mock.articles.slice((currentPage - 1) * 9, currentPage * 9)
+        );
+        setTotalPages(Math.floor(mock.totalResults / 9));
       } else {
         setArticles(data.articles);
         setTotalPages(Math.floor(data.totalResults / 9));
