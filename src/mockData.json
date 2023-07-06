@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "totalResults": 30,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Einstein Vindicated: Quasar “Clocks” Show Universe Was 5x Slower Soon After the Big Bang - SciTechDaily",
+      "description": "Observational data from nearly 200 quasars show Einstein correct – again – about time dilation of the cosmos. Scientists have for the first time observed the early universe running in extreme slow motion, unlocking one of the mysteries of Einstein’s expanding…",
+      "url": "https://scitechdaily.com/einstein-vindicated-quasar-clocks-show-universe-was-5x-slower-soon-after-the-big-bang/",
+      "urlToImage": "https://scitechdaily.com/images/Big-Bang-Time-Astrophysics.jpg",
+      "publishedAt": "2023-07-05T00:25:28Z",
+      "content": "ByUniversity of SydneyJuly 4, 2023\r\nIn a pioneering study, scientists have used quasars as cosmic clocks to observe the early universe running in extreme slow motion, further validating Einsteins the… [+4361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Philadelphia Inquirer"
+      },
+      "author": "Anthony R. Wood, Rodrigo Torrejón, Ximena Conde, Chris Palmer",
+      "title": "The killer in one of Philadelphia’s deadliest mass shootings evidently fired randomly, police say - The Philadelphia Inquirer",
+      "description": "It was the deadliest shooting in the city since the \"Lex Street Massacre\" in 2000.",
+      "url": "https://www.inquirer.com/news/philadelphia-mass-shooting-kingsessing-suspect-victims-kimbrady-carriker-20230704.html",
+      "urlToImage": "https://www.inquirer.com/resizer/9drt_OKL2nW_SdYU3YSW4g7DF1A=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/RUZ3KQCW2NAKRBEJDJKPKCVI4U.jpg",
+      "publishedAt": "2023-07-05T00:11:08Z",
+      "content": "Officials, investigators, and stunned residents of a West Philadelphia neighborhood that has experienced far more than its share of violence were left to spend one of Philadelphias signature celebrat… [+5275 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WKRN News 2"
+      },
+      "author": "Sebastian Posey",
+      "title": "Nashville 4th of July Fireworks 2023: Weather delay results in changes to event schedule - WKRN News 2",
+      "description": "Celebrate Independence Day with the largest fireworks show in Nashville history from Let Freedom Sing! Music City July 4th.",
+      "url": "https://www.wkrn.com/news/local-news/nashville/july-4th-fireworks-2023-nashville-tn/",
+      "urlToImage": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/07/Nashville-Fireworks-2022.jpg?w=1280",
+      "publishedAt": "2023-07-05T00:00:22Z",
+      "content": "NASHVILLE, Tenn. (WKRN) Celebrate Independence Day with the largest fireworks show in Nashville history from Let Freedom Sing! Music City July 4th.\r\nA weather delay resulted in a change to the lineup… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox13now.com"
+      },
+      "author": "Nate Carlisle",
+      "title": "Why it's a big year for Utah mosquitoes - FOX 13 News Utah",
+      "description": "Dan McBride with the South Salt Lake Valley Mosquito Abatement District said they are finding about 10 times the number of mosquitoes they expect to find this time of year.",
+      "url": "https://www.fox13now.com/news/local-news/why-its-a-big-year-for-utah-mosquitoes",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/f7fc7d1/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F490%2Fef205c0e5ea14d77944cbd6904335118%2F490933909cb84655b8a967017b49142f%2Fposter_5256cb2f814a41d8a51a0fe3947c21d7.jpeg",
+      "publishedAt": "2023-07-04T23:58:01Z",
+      "content": "SOUTH JORDAN, Utah Britton Cochran has been bitten by mosquitoes this year multiple times.\r\nI have to take bug spray pretty much wherever I go, Cochran said, as she stood beside a lake in the Daybrea… [+1129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "2024 Aston Martin DB12 | First Drive - Kelley Blue Book",
+      "description": "For the latest Aston Martin DB12 pricing and information:https://www.kbb.com/aston-martin/db12/The Aston Martin DB12 doesn’t look like it messes around, so I...",
+      "url": "https://www.youtube.com/watch?v=ogoubqaE800",
+      "urlToImage": "https://i.ytimg.com/vi/ogoubqaE800/maxresdefault.jpg",
+      "publishedAt": "2023-07-04T23:01:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Science X",
+      "title": "Apex predator of the Cambrian likely sought soft over crunchy prey - Phys.org",
+      "description": "Biomechanical studies on the arachnid-like front \"legs\" of an extinct apex predator show that the 2-foot (60 centimeter) marine animal Anomalocaris canadensis was likely much weaker than once assumed. One of the largest animals to live during the Cambrian, it…",
+      "url": "https://phys.org/news/2023-07-apex-predator-cambrian-sought-soft.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/apex-predator-of-the-c.jpg",
+      "publishedAt": "2023-07-04T23:00:01Z",
+      "content": "Biomechanical studies on the arachnid-like front \"legs\" of an extinct apex predator show that the 2-foot (60 centimeter) marine animal Anomalocaris canadensis was likely much weaker than once assumed… [+3481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Chandraveer Mathur",
+      "title": "Behold the Nothing Phone 2 in all its pre-launch glory - Android Police",
+      "description": "The manufacturer is also teasing a white variant",
+      "url": "https://www.androidpolice.com/nothing-phone-2-pre-launch-glyph-demo/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/Nothing-Phone-1-25.jpg",
+      "publishedAt": "2023-07-04T22:46:00Z",
+      "content": "Carl Pei’s Nothing Phone 1 left quite an impression on us, and the world now eagerly awaits its sequel, with the Nothing Phone 2’s debut slated for July 11. Although the launch is just days away, hyp… [+2895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WKBN.com"
+      },
+      "author": "Nadine Grimley",
+      "title": "Discounted fuel causes traffic delays at Valley Sheetz locations - WKBN.com",
+      "description": "Discounted fuel this Independence Day caused some slight traffic issues around Sheetz gas stations in the Mahoning Valley.",
+      "url": "https://www.wkbn.com/news/local-news/warren-news/discounted-fuel-causes-traffic-delays-at-valley-sheetz-locations/",
+      "urlToImage": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/07/sheetz-in-warren.jpg?w=1280",
+      "publishedAt": "2023-07-04T22:23:38Z",
+      "content": "WARREN, Ohio (WKBN) – Discounted fuel this Independence Day caused some slight traffic issues around Sheetz gas stations in the Mahoning Valley.\r\nAt the intersection of E. Market Street and North Roa… [+735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KGO-TV"
+      },
+      "author": null,
+      "title": "SARS-CoV-2 detected in Bay Area wastewater as scientist monitor slight uptick in COVID levels in Palo Alto, San Mateo County - KGO-TV",
+      "description": "\"The incident rate or the number of infections are relatively low but SARS-CoV-2 is still present in wastewater indicating the virus is still circulating.\"",
+      "url": "https://abc7news.com/covid-wastewater-bay-area-cases-palo-alto-san-mateo-county/13460850/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13457943_070423-kgo-covid-tracking-img.jpg?w=1600",
+      "publishedAt": "2023-07-04T21:30:17Z",
+      "content": "SAN FRANCISCO (KGO) -- COVID-19 is still here and as people are letting their guard down, COVID cases are still being reported across the Bay Area.\r\nIn the last two weeks, Bay Area scientists have no… [+1776 chars]"
+    }
+  ]
+}
