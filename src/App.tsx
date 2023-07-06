@@ -13,7 +13,6 @@ const App = () => {
   const [articles, setArticles] = useState<ArticleProps[]>([]);
   const [currentPage, setCurrentPage] = useState<number>(1);
   const [totalPages, setTotalPages] = useState<number>(0);
-  const [errorMessage, setErrorMessage] = useState<string>("");
 
   // State variables to store the selected article and the modal visibility
   const [selectedArticle, setSelectedArticle] = useState<ArticleProps | null>(
@@ -36,8 +35,6 @@ const App = () => {
       const data = await response.json();
       if (data.status === "error") {
         console.log(data.message);
-        console.log(mock);
-
         setArticles(
           mock.articles.slice((currentPage - 1) * 9, currentPage * 9)
         );
@@ -82,19 +79,15 @@ const App = () => {
         <SearchBar query={query} onQueryChange={handleQueryChange} />
       </header>
       <main>
-        {articles?.length > 0 ? (
-          <section className="articles">
-            {articles.map((article) => (
-              <Article
-                key={article.url}
-                {...article}
-                onClick={() => handleArticleClick(article)}
-              />
-            ))}
-          </section>
-        ) : (
-          <h3>{errorMessage}</h3>
-        )}
+        <section className="articles">
+          {articles.map((article) => (
+            <Article
+              key={article.url}
+              {...article}
+              onClick={() => handleArticleClick(article)}
+            />
+          ))}
+        </section>
       </main>
 
       {/* Render the pagination component only if the articles array is not empty */}

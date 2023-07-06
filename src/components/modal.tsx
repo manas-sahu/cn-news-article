@@ -16,7 +16,7 @@ const Modal = ({
         modalRef.current &&
         !modalRef.current.contains(event.target as Node)
       ) {
-        onClose();
+        onClose?.();
       }
     };
     document.addEventListener("mousedown", handleClickOutside);
