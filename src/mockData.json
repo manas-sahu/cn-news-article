@@ -5,54 +5,93 @@
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "Einstein Vindicated: Quasar “Clocks” Show Universe Was 5x Slower Soon After the Big Bang - SciTechDaily",
-      "description": "Observational data from nearly 200 quasars show Einstein correct – again – about time dilation of the cosmos. Scientists have for the first time observed the early universe running in extreme slow motion, unlocking one of the mysteries of Einstein’s expanding…",
-      "url": "https://scitechdaily.com/einstein-vindicated-quasar-clocks-show-universe-was-5x-slower-soon-after-the-big-bang/",
-      "urlToImage": "https://scitechdaily.com/images/Big-Bang-Time-Astrophysics.jpg",
-      "publishedAt": "2023-07-05T00:25:28Z",
-      "content": "ByUniversity of SydneyJuly 4, 2023\r\nIn a pioneering study, scientists have used quasars as cosmic clocks to observe the early universe running in extreme slow motion, further validating Einsteins the… [+4361 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Cocaine found in White House sparks brief evacuation - BBC",
+      "description": "The US Secret Service is investigating how the substance got into the West Wing.",
+      "url": "https://www.bbc.com/news/world-us-canada-66104993",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8D17/production/_130291163_gettyimages-519973294.jpg",
+      "publishedAt": "2023-07-05T08:06:19Z",
+      "content": "The US Secret Service is investigating after cocaine was found at the White House on Sunday night.\r\nThe discovery in the West Wing, which contains the Oval Office and other working areas for presiden… [+1387 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lyric Li, María Luisa Paúl",
+      "title": "What does the Barbie movie have to do with the South China Sea dispute? - The Washington Post",
+      "description": "Vietnam banned screenings of the upcoming Barbie film over a map that appears to depict Beijing’s disputed “nine-dash line” claim in the South China Sea.",
+      "url": "https://www.washingtonpost.com/world/2023/07/05/vietnam-barbie-ban-movie-south-china-sea/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/07-04-2023/t_35f3c1c01e2b4268a47465a052886a9f_name_barbie.png&w=1440",
+      "publishedAt": "2023-07-05T06:34:56Z",
+      "content": "Comment on this story\r\nComment\r\nHot pink is having a moment as the world prepares for the release of the highly anticipated Barbie movie this month.\r\nThe world except Vietnam. Officials in the Southe… [+990 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Philadelphia Inquirer"
+        "name": "Fox Business"
       },
-      "author": "Anthony R. Wood, Rodrigo Torrejón, Ximena Conde, Chris Palmer",
-      "title": "The killer in one of Philadelphia’s deadliest mass shootings evidently fired randomly, police say - The Philadelphia Inquirer",
-      "description": "It was the deadliest shooting in the city since the \"Lex Street Massacre\" in 2000.",
-      "url": "https://www.inquirer.com/news/philadelphia-mass-shooting-kingsessing-suspect-victims-kimbrady-carriker-20230704.html",
-      "urlToImage": "https://www.inquirer.com/resizer/9drt_OKL2nW_SdYU3YSW4g7DF1A=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/RUZ3KQCW2NAKRBEJDJKPKCVI4U.jpg",
-      "publishedAt": "2023-07-05T00:11:08Z",
-      "content": "Officials, investigators, and stunned residents of a West Philadelphia neighborhood that has experienced far more than its share of violence were left to spend one of Philadelphias signature celebrat… [+5275 chars]"
+      "author": "Sarah Rumpf-Whitten",
+      "title": "Meta takes aim at Elon Musk's Twitter, to announce rival app Threads - Fox Business",
+      "description": "Facebook parent company, Meta, is set to debut a Twitter rival called Threads as soon as Thursday, July 6, which appears to directly mimic Elon Musk's Twitter.",
+      "url": "https://www.foxbusiness.com/technology/meta-takes-aim-elon-musks-twitter-announce-rival-app-threads",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/dcfe8a7d-1.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-05T05:36:16Z",
+      "content": "Meta, the parent company of Facebook, revealed Monday a new \"conversation\" app called Threads, which appears to mimic Twitter – a direct challenge to the social media platform owned by Elon Musk.\r\nA … [+4024 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "WKRN News 2"
+        "name": "BBC News"
       },
-      "author": "Sebastian Posey",
-      "title": "Nashville 4th of July Fireworks 2023: Weather delay results in changes to event schedule - WKRN News 2",
-      "description": "Celebrate Independence Day with the largest fireworks show in Nashville history from Let Freedom Sing! Music City July 4th.",
-      "url": "https://www.wkrn.com/news/local-news/nashville/july-4th-fireworks-2023-nashville-tn/",
-      "urlToImage": "https://www.wkrn.com/wp-content/uploads/sites/73/2022/07/Nashville-Fireworks-2022.jpg?w=1280",
-      "publishedAt": "2023-07-05T00:00:22Z",
-      "content": "NASHVILLE, Tenn. (WKRN) Celebrate Independence Day with the largest fireworks show in Nashville history from Let Freedom Sing! Music City July 4th.\r\nA weather delay resulted in a change to the lineup… [+1031 chars]"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Biden officials must limit contact with social media firms - BBC",
+      "description": "A judge bars officials from contacting platforms over \"content containing protected free speech\".",
+      "url": "https://www.bbc.com/news/technology-66106067",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/85A1/production/_130290243_gettyimages-1506001186.jpg",
+      "publishedAt": "2023-07-05T04:54:56Z",
+      "content": "A US federal judge has limited the Biden administration's communications with social media companies which are aimed at moderating their content.\r\nIn a 155-page ruling on Tuesday, judge Terry Doughty… [+2799 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "fox13now.com"
+        "name": "Yahoo Entertainment"
       },
-      "author": "Nate Carlisle",
-      "title": "Why it's a big year for Utah mosquitoes - FOX 13 News Utah",
-      "description": "Dan McBride with the South Salt Lake Valley Mosquito Abatement District said they are finding about 10 times the number of mosquitoes they expect to find this time of year.",
-      "url": "https://www.fox13now.com/news/local-news/why-its-a-big-year-for-utah-mosquitoes",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/f7fc7d1/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F490%2Fef205c0e5ea14d77944cbd6904335118%2F490933909cb84655b8a967017b49142f%2Fposter_5256cb2f814a41d8a51a0fe3947c21d7.jpeg",
-      "publishedAt": "2023-07-04T23:58:01Z",
-      "content": "SOUTH JORDAN, Utah Britton Cochran has been bitten by mosquitoes this year multiple times.\r\nI have to take bug spray pretty much wherever I go, Cochran said, as she stood beside a lake in the Daybrea… [+1129 chars]"
+      "author": "Andy Deossa",
+      "title": "LA Galaxy upset LAFC in front of electric, record-breaking Rose Bowl crowd - Yahoo Sports",
+      "description": "It's been a tough season for the Galaxy, but on the Fourth of July, they owned the night in L.A.",
+      "url": "https://sports.yahoo.com/la-galaxy-upset-lafc-in-front-of-electric-record-breaking-rose-bowl-crowd-045437460.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R6cVvZC589C42ieqzxJe0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/4d736b60-1afa-11ee-b753-e5e0750fa981",
+      "publishedAt": "2023-07-05T04:54:00Z",
+      "content": "Jul 4, 2023; Los Angeles, California, USA; LA Galaxy midfielder Riqui Puig (6) celebrates with fans after the game against the LAFC at the Rose Bowl. Mandatory Credit: Kirby Lee-USA TODAY Sports\r\nPAS… [+2811 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tassia Sipahutar",
+      "title": "Stocks Decline as China Data Saps Risk Sentiment: Markets Wrap - Yahoo Finance",
+      "description": "(Bloomberg) -- Futures for US and European benchmarks slid along with Asian stocks Wednesday as growth in China’s services industry slowed, sapping appetite ...",
+      "url": "https://finance.yahoo.com/news/asian-stocks-poised-decline-oil-222511816.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/26205c106eba8d59214c570743f5280d",
+      "publishedAt": "2023-07-05T04:31:00Z",
+      "content": "(Bloomberg) -- Futures for US and European benchmarks slid along with Asian stocks Wednesday as growth in Chinas services industry slowed, sapping appetite for equities.\r\nMost Read from Bloomberg\r\nA … [+4843 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Robert Costa",
+      "title": "Former GOP congressman and Jan. 6 select committee adviser Denver Riggleman now working with Hunter Biden - CBS News",
+      "description": "Hunter Biden is facing increasing scrutiny from House Republicans over his business dealings.",
+      "url": "https://www.cbsnews.com/news/hunter-biden-denver-riggleman-former-gop-congressman-jan-6-select-committee-adviser/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/07/05/3014708e-512f-4af2-a1c4-b188aac47a79/thumbnail/1200x630/de0114c13eac1813669722b5d5adf750/gettyimages-1228806625.jpg?v=f3503a7856c58c20acab4eae8bb1f0f4",
+      "publishedAt": "2023-07-05T03:58:00Z",
+      "content": "Former Republican Rep. Denver Riggleman of Virginia — who served as a senior technical adviser to the House select committee probing the Jan. 6, 2021, assault on the Capitol — is working with the leg… [+6961 chars]"
     },
     {
       "source": {
@@ -60,77 +99,25 @@
         "name": "YouTube"
       },
       "author": null,
-      "title": "2024 Aston Martin DB12 | First Drive - Kelley Blue Book",
-      "description": "For the latest Aston Martin DB12 pricing and information:https://www.kbb.com/aston-martin/db12/The Aston Martin DB12 doesn’t look like it messes around, so I...",
-      "url": "https://www.youtube.com/watch?v=ogoubqaE800",
-      "urlToImage": "https://i.ytimg.com/vi/ogoubqaE800/maxresdefault.jpg",
-      "publishedAt": "2023-07-04T23:01:00Z",
+      "title": "Bron Breakker and Ilja Dragunov engage in a massive brawl: NXT highlights, July 4, 2023 - WWE",
+      "description": "Bron Breakker and The Mad Dragon come to blows that cause the NXT ring to descend into chaos. Catch WWE action on Peacock, WWE Network, FOX, USA Network, Son...",
+      "url": "https://www.youtube.com/watch?v=mTk_EblWdNM",
+      "urlToImage": "https://i.ytimg.com/vi/mTk_EblWdNM/maxresdefault.jpg",
+      "publishedAt": "2023-07-05T03:40:39Z",
       "content": null
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Science X",
-      "title": "Apex predator of the Cambrian likely sought soft over crunchy prey - Phys.org",
-      "description": "Biomechanical studies on the arachnid-like front \"legs\" of an extinct apex predator show that the 2-foot (60 centimeter) marine animal Anomalocaris canadensis was likely much weaker than once assumed. One of the largest animals to live during the Cambrian, it…",
-      "url": "https://phys.org/news/2023-07-apex-predator-cambrian-sought-soft.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/apex-predator-of-the-c.jpg",
-      "publishedAt": "2023-07-04T23:00:01Z",
-      "content": "Biomechanical studies on the arachnid-like front \"legs\" of an extinct apex predator show that the 2-foot (60 centimeter) marine animal Anomalocaris canadensis was likely much weaker than once assumed… [+3481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Police"
-      },
-      "author": "Chandraveer Mathur",
-      "title": "Behold the Nothing Phone 2 in all its pre-launch glory - Android Police",
-      "description": "The manufacturer is also teasing a white variant",
-      "url": "https://www.androidpolice.com/nothing-phone-2-pre-launch-glyph-demo/",
-      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/07/Nothing-Phone-1-25.jpg",
-      "publishedAt": "2023-07-04T22:46:00Z",
-      "content": "Carl Pei’s Nothing Phone 1 left quite an impression on us, and the world now eagerly awaits its sequel, with the Nothing Phone 2’s debut slated for July 11. Although the launch is just days away, hyp… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WKBN.com"
-      },
-      "author": "Nadine Grimley",
-      "title": "Discounted fuel causes traffic delays at Valley Sheetz locations - WKBN.com",
-      "description": "Discounted fuel this Independence Day caused some slight traffic issues around Sheetz gas stations in the Mahoning Valley.",
-      "url": "https://www.wkbn.com/news/local-news/warren-news/discounted-fuel-causes-traffic-delays-at-valley-sheetz-locations/",
-      "urlToImage": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/07/sheetz-in-warren.jpg?w=1280",
-      "publishedAt": "2023-07-04T22:23:38Z",
-      "content": "WARREN, Ohio (WKBN) – Discounted fuel this Independence Day caused some slight traffic issues around Sheetz gas stations in the Mahoning Valley.\r\nAt the intersection of E. Market Street and North Roa… [+735 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KGO-TV"
-      },
-      "author": null,
-      "title": "SARS-CoV-2 detected in Bay Area wastewater as scientist monitor slight uptick in COVID levels in Palo Alto, San Mateo County - KGO-TV",
-      "description": "\"The incident rate or the number of infections are relatively low but SARS-CoV-2 is still present in wastewater indicating the virus is still circulating.\"",
-      "url": "https://abc7news.com/covid-wastewater-bay-area-cases-palo-alto-san-mateo-county/13460850/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/13457943_070423-kgo-covid-tracking-img.jpg?w=1600",
-      "publishedAt": "2023-07-04T21:30:17Z",
-      "content": "SAN FRANCISCO (KGO) -- COVID-19 is still here and as people are letting their guard down, COVID cases are still being reported across the Bay Area.\r\nIn the last two weeks, Bay Area scientists have no… [+1776 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Jiyoung Sohn, Yang Jie, Rhiannon Hoyle",
-      "title": "China's Export Curb on Chip-Making Metals Prompt Countries to Explore Supply-Chain Diversification - The Wall Street Journal",
-      "description": "Beijing’s decision to curb exports of rare minerals alarms South Korea and Japan",
-      "url": "https://www.wsj.com/articles/chinas-latest-export-controls-prompt-countries-to-explore-supply-chain-diversification-318e74d1",
-      "urlToImage": "https://images.wsj.net/im-811478/social",
-      "publishedAt": "2023-07-05T03:12:00Z",
-      "content": null
+      "author": ", USA TODAY",
+      "title": "Angels' Shohei Ohtani exits early due to blister, doesn't expect to pitch in All-Star Game - USA TODAY",
+      "description": "Angels two-way star Shohei Ohtani exited Tuesday's game against the Padres early with a blister on his right middle finger.",
+      "url": "https://www.usatoday.com/story/sports/mlb/angels/2023/07/04/angels-shohei-ohtani-exits-game-blister-mike-trout-injury/70382281007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/05/USAT/56a1fc77-2ba0-4196-891e-660c4a37bd7b-USATSI_20991502.jpg?auto=webp&crop=5331,2999,x0,y271&format=pjpg&width=1200",
+      "publishedAt": "2023-07-05T03:33:45Z",
+      "content": "Los Angeles Angels two-way star Shohei Ohtani exited Tuesday's game against the San Diego Padres early due to a blister on the middle finger of his pitching hand. He said afterwards that he likely wo… [+2292 chars]"
     },
     {
       "source": {
